@@ -1,4 +1,4 @@
 Robot
 =====
 
-Building a CSS Robot
+Building a Robot out of CSS. 
